@@ -1,5 +1,6 @@
 import discord
 import os
+import random
 from discord.ext import commands
 
 token = input("โทเค็นบอท : ")
